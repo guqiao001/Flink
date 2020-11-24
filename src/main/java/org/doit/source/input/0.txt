@@ -1,0 +1,5 @@
+The Apache Flink community is happy to announce the release of Stateful Functions (StateFun) 2.2.0!
+This release introduces major features that extend the SDKs, such as support for asynchronous functions in the Python SDK,
+new persisted state constructs, and a new SDK that allows embedding StateFun functions within a Flink DataStream job.
+Moreover, we’ve also included important changes that improve out-of-the-box stability for common workloads,
+as well as increased observability for operational purposes.
